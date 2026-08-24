@@ -1,8 +1,8 @@
 class GitCleanupAssistant < Formula
   desc "Interactive terminal assistant for cleaning up local Git worktrees and branches"
   homepage "https://github.com/CodingSteve01/git-cleanup-assistant"
-  url "https://github.com/CodingSteve01/git-cleanup-assistant/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "3d1058ace42fc6bdd25524b996294b08458034b7fb1f4c7946cd9d194058d7a5"
+  url "https://github.com/CodingSteve01/git-cleanup-assistant/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "0a192ec8136d59073a1d5a5915e689d8441116b53b711f79387f7f94563808fd"
   license "MIT"
 
   depends_on "gh"
